@@ -1,0 +1,7 @@
+$color-primary: white;
+$color-primary-light: lighten($color-primary, 10%);
+$color-primary-dark: darken($color-primary, 10%);
+
+body {
+    background-color: $color-primary;
+}
